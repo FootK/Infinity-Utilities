@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl",
+      "item": "minecraft:nether_star",
+      "item": "infutil:namor_dna"
+    }
+  ],
+  "result": {
+    "item": "infutil:namor_soup"
+  }
+}

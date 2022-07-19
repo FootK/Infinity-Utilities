@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "infutil:atlantian_dna",
+      "item": "infutil:human_dna"
+    }
+  ],
+  "result": {
+    "item": "infutil:namor_dna"
+  }
+}

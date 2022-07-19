@@ -1,0 +1,20 @@
+{
+  "itemGroup.infutil": "Infinity-Utilities",
+
+
+  "item.infutil.powerstone": "Power Stone",
+  "item.infutil.timestone": "Time Stone",
+  "item.infutil.soulstone": "Soul Stone",
+  "item.infutil.realitystone": "Reality Stone",
+  "item.infutil.spacestone": "Space Stone",
+  "item.infutil.mindstone": "Mind Stone",
+
+  "item.infutil.infinitygauntlet": "Infinity Gauntlet",
+
+
+  "curios.identifier.superpower": "Superpower",
+  "curios.modifiers.superpower": "Extra Stats",
+
+  "item.infutil.heartherb": "Heart-Shaped Herb",
+  "item.infutil.heartsoup": "Heart-Shaped Herb Soup"
+}

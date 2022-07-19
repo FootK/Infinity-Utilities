@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_savanna",
+  "features": "infutil:ore_vibranium_large",
+  "step": "underground_ores"
+}
